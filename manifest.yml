@@ -1,7 +1,0 @@
-applications:
-- name: hello-jsp
-  memory: 256M
-  instances: 1
-  host: hello-jsp
-  domain: cfmirantis.com
-  path: target/hello-jsp-1.0.war
